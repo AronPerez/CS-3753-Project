@@ -1,4 +1,4 @@
-#!/home/amongstar/my_project_env/bin/python
+#!/home/amongstar/trainSpace/trainSpace/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
