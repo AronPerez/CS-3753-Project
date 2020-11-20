@@ -48,4 +48,3 @@ ssh -i <nameOfPrivateKey> -L <portYouChose>:localhost:<portYouChose> <username>@
 10. Open this on your local machine and boom, we're connected to the dataset
 Source: https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling
 11. Follow https://www.kaggle.com/kneroma/zarr-files-and-l5kit-data-for-dummies for setup of env
-12. Install conda for PyTorch, follow https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
