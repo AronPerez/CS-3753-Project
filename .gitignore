@@ -1,0 +1,6 @@
+.vscode/
+\.json
+authorized_keys
+Dataset/
+\.pth
+\.ipynb
