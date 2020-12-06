@@ -7,7 +7,7 @@
 The framework consists of three modules:
 1. **Datasets** - data available for training ML models. [Access to dataset](https://mega.nz/folder/oK4EVaBD#3Epl63VEuzxfI2wNoijG3g)
 2. **L5Kit** - the core library supporting functionality for reading the data and framing planning and simulation problems as ML problems.
-3. **Examples** - an ever-expanding collection of jupyter notebooks which demonstrate the use of L5Kit to solve various AV problems.
+3. **train.py** - The Python version of the Jupyter Notebook, takes input from the working directory and outputs the model
 
 # Couple of things to note
 
