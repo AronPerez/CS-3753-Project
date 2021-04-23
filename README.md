@@ -1,2 +1,2 @@
-# CS-3753-Project
-CS-3753-002-Fall-2020-Data Science
+# CS-4263-Project
+CS-4263-001-Spring-2021-Deep Learning
